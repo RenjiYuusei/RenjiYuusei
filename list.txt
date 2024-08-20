@@ -53,6 +53,8 @@ s.javn.tv###contenedor > div.module:last-child > div.content.full_width_layout >
 s.javn.tv###contenedor > div.module:last-child > div.content.full_width_layout> div.pc-pl:first-child > div.cashfit- ads____container:nth-child(6)
 s.javn.tv###single > div.content:first-child > div.pc-pl:first-child > div.cashfit-ads__container:nth-child(6)
 hentaiz.wiki###spu-2738
+hentaiz.wiki##div.wrap:nth-child(2) > div.body-wrap > div:nth-child(2)
+hentaiz.wiki###catfish
 ! ---------- Ad domain ----------
 ||https://clobberprocurertightwad.com^
 ||https://ku42hjr2e.com^
