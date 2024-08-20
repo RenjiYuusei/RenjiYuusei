@@ -48,6 +48,7 @@ truyenvn.cam##div.wrap:first-child > div.body-wrap > div.aligncenter.ads-abc:nth
 lxmanga.life###mobile-catfish-2
 damconuongz.com###close-all-ads
 damconuongz.com###catfish-ad
+s.javn.tv###contenedor
 ! ---------- Ad domain ----------
 ||ad.vidverto.io^
 ||adflex.vn^$third-party
