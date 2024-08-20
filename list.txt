@@ -1,0 +1,309 @@
+.com/cpc/$script
+.com/qc/
+.net/ads/$domain=~mcleaks.net|~linkneverdie.net
+.net/cpf/$script
+.tv/ads/$image,script,subdocument
+.vn/Ad/
+.vn/c3s-ad/$xmlhttprequest
+.vn/qc/
+/Content/JS/jwplayer/vast.js$script
+/_BannerSlot.aspx$subdocument,domain=bongdaso66.net
+/aas/r45d/vki/*$script
+/ads/*.gif$domain=~mcleaks.net
+/ads/*.xml$xmlhttprequest
+/ads/popup_
+/adv/*$image,domain=bongdaso66.net
+/banner-ads.
+/banner/*.gif$domain=~marsvenus.vn
+/beardeddragon$script
+/blueserving.
+vlxx.lol###adx
+vlxx.lol##.banner-preload
+vlxx.lol##.catfish-top
+vlxx.lol##.ff-banner
+vlxx.lol##div.banner-catfish-bottom
+vlxx.lol,haysex3xx.net##.catfish-bottom
+vlxx.lol,javtopxx.com##.ads
+vlxx.lol##.popup
+vlxx.lol##.popups
+hentaicube.net###mb-catfish
+hentaicube.net###pc-catfish
+hentaicube.net###custom_html-19 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div
+hentaicube.net###custom_html-25 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div > a > img
+truyenqqto.com###catfishAd
+truyenqqto.com###popup-truyenqq
+truyenqqto.com###rik-both-top-67
+truyenqqto.com###ad_info_top
+animehay.in##div:nth-child(5) > div > div:first-child > img
+animehay.in##div:nth-child(5) > div > div:last-child
+animevietsub.app###hide_catfix > a
+animevietsub.app###mobile-catfixx > div.mb_catfix_adv:last-child
+animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv.ad-center-header:nth-child(2) > div.header-ads-mobile
+animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads.ads_player:first-child
+animevietsub.app###watch-block > div.Ads.bellow_ads_player:nth-child(4) > div.below-playerm
+sayhentai.one###hide_catfish
+sayhentai.one###catfish_content
+! ---------- Ad domain ----------
+||ad.vidverto.io^
+||adflex.vn^$third-party
+||adpia.vn^$third-party
+||ads-cdn.fptplay.net^
+||ads.mxhnkn.pro^
+||ads.starzd.com^
+||adtima-static.zadn.vn^$script
+||adtima-static.zascdn.me^
+||adtima.vn^$third-party
+||adtimaserver.vn^
+||aff.cdnntx.com^
+||affordedseasick.com^
+||aj1047.online^
+||aj1559.online^
+||aj2393.online^
+||ajsc.yodimedia.com^
+||amcdn.vn^
+||ants.vn^$third-party
+||api.adfly.vn^
+||apinas.nct.vn^
+||ar.pagodaskeeker.com^
+||asg.phukienthoitranggiare.com^
+||baobabsruesome.com^
+||bardicjazzed.com^
+||bidgear-syndication.com^
+||blueseed.tv^$third-party
+||brittlesturdyunlovable.com^
+||cdn.adop.asia^
+||cdn.tpmedia.online^
+||cdnv.tpmedia.online^
+||ce.ineptsundial.com^
+||chouthep.net^
+||click.advertnative.com^
+||cnt.trvdp.com^
+||contineljs.com^
+||couldblindly.com^
+||delivery.yomedia.vn^
+||dinhvu.pro^$third-party
+||effacedefend.com^
+||fpgedsewst.com^
+||fv.togataurnfuls.com^
+||gammaplatform.com^$third-party
+||gelatinerespectivelyhector.com^
+||genieesspv.jp^$third-party
+||genmonet.com^
+||grubsnuchale.com^
+||grunoaph.net^
+||gullyending.com^
+||hqq.to^$popup
+||hymenvapour.com^
+||iads.staticscdn.net^
+||imad24.com^
+||img.yeuketqua.net^
+||js.aiservice.vn^
+||jsc.yodimedia.com^
+||link.cado.pro^
+||mairbeets.com^
+||meta.vn^$third-party
+||midgetmaying.com^
+||pi.beaufintorque.com^
+||pk910324e.com^
+||platform.adlinknetwork.vn^
+||player.gliacloud.com^
+||pub.akadigital.vn^
+||pub.lavamedia.vn^
+||pub.lavanetwork.net^$third-party
+||qc.coccoc.com^$third-party
+||qc.violet.vn^
+||qcv5.blogtruyenmoi.com^
+||qz.almudestilths.com^
+||realclick.vn^$third-party
+||rkgwzfwjgk.com^
+||rq.overseagyassa.com^
+||sbbanner.com^
+||skiddyteapots.com^
+||ss.sonshiplevesel.com^
+||ss.yomedia.vn^
+||static.adconnect.vn^
+||static.philacct.com^
+||stummertitis.com^
+||syphonseity.com^
+||taboola.com^$script,third-party
+||tags.fly-ads.net^
+||tags.native-ad.net^
+||truyentuan.xyz^$subdocument,~third-party
+||tutsterblanche.com^
+||tvc.biphim.club^
+||v9banners.com^
+||vads.net.vn^
+||xenosmussal.com^
+||xszpuvwr7.com^
+||zaloweb.
+||qph.cf2.quoracdn.net/main-qimg-*
+||https://blurbreimbursetrombone.com/*
+||https://endowmentoverhangutmost.com/*
+||https://holahupa.com/*
+||cdn.hentaicube.net/qcs/*
+||https://laxativestuckunclog.com/*
+||https://widgetlogic.org/*
+||https://ads.mxhnkn.pro/*
+#[doubleclick.net]
+0.0.0.0 doubleclick.net
+0.0.0.0 accounts.doubleclick.net
+0.0.0.0 ad.au.doubleclick.net
+0.0.0.0 ad.bg.doubleclick.net
+0.0.0.0 ad.br.doubleclick.net
+0.0.0.0 ad.cl.doubleclick.net
+0.0.0.0 ad.cn.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.eg.doubleclick.net
+0.0.0.0 ad.es.doubleclick.net
+0.0.0.0 ad.fr.doubleclick.net
+0.0.0.0 ad.il.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 ad.nl.doubleclick.net
+0.0.0.0 ad.pl.doubleclick.net
+0.0.0.0 ad.sg.doubleclick.net
+0.0.0.0 ad.uk.doubleclick.net
+0.0.0.0 ad2.doubleclick.net
+0.0.0.0 ad-apac.doubleclick.net
+0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 ad-emea.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 apac.doubleclick.net
+0.0.0.0 bid.g.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 dart-apac.l.doubleclick.net
+0.0.0.0 dfp.doubleclick.net
+0.0.0.0 dmp.doubleclick.net
+0.0.0.0 dp.g.doubleclick.net
+0.0.0.0 dsengine.doubleclick.net
+0.0.0.0 emea.doubleclick.net
+0.0.0.0 feedads.g.doubleclick.net
+0.0.0.0 fls.uk.doubleclick.net
+0.0.0.0 g.doubleclick.net
+0.0.0.0 gan.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 googleads2.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 ir.doubleclick.net
+0.0.0.0 iv.doubleclick.net
+0.0.0.0 l.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 mobile-displayads.l.doubleclick.net
+0.0.0.0 n4052ad.doubleclick.net
+0.0.0.0 n4403ad.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 paypalssl.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 publisherportal.doubleclick.net
+0.0.0.0 reportcentral.doubleclick.net
+0.0.0.0 s0.doubleclick.net
+0.0.0.0 s1.doubleclick.net
+0.0.0.0 secureframe.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 www.doubleclick.net
+0.0.0.0 www3.doubleclick.net
+0.0.0.0 fls.doubleclick.net
+0.0.0.0 undefined.fls.doubleclick.net
+#[adservice.google.*]
+0.0.0.0 adservice.google.ca
+0.0.0.0 adservice.google.co.jp
+0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.com.hk
+0.0.0.0 adservice.google.com.sg
+0.0.0.0 adservice.google.com.tr
+0.0.0.0 adservice.google.com.vn
+0.0.0.0 adservice.google.de
+#[googlesyndication.com]
+0.0.0.0 googlesyndication.com
+0.0.0.0 ade.googlesyndication.com
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 buttons.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 pagead46.googlesyndication.com
+0.0.0.0 tpc.googlesyndication.com
+0.0.0.0 tpcnc.googlesyndication.com
+0.0.0.0 video-ad-stats.googlesyndication.com
+#[googletagmanager.com]
+0.0.0.0 googletagmanager.com
+0.0.0.0 www.googletagmanager.com
+#[googletagservices.com]
+0.0.0.0 googletagservices.com
+0.0.0.0 www.googletagservices.com
+#[googleadservices.com]
+0.0.0.0 10.afs.googleadservices.com
+0.0.0.0 18.afs.googleadservices.com
+0.0.0.0 2.afs.googleadservices.com
+0.0.0.0 4.afs.googleadservices.com
+0.0.0.0 googleadservices.com
+0.0.0.0 pagead2.googleadservices.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 partnerssl.googleadservices.com
+0.0.0.0 www.googleadservices.com
+#[analytics.google.com]
+0.0.0.0 analytics.google.com
+0.0.0.0 region1.analytics.google.com
+#[google-analytics.com]
+0.0.0.0 click.google-analytics.com
+0.0.0.0 google-analytics.com
+0.0.0.0 region1.google-analytics.com
+0.0.0.0 sandbox.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 www-alv.google-analytics.com
+0.0.0.0 www.google-analytics.com
+#[googleanalytics.com]
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 www.googleanalytics.com
+#[optimize.google.com]
+0.0.0.0 optimize.google.com
+0.0.0.0 googleoptimize.com
+0.0.0.0 www.googleoptimize.com
+#[googleapis.com]
+0.0.0.0 androidtvchannels-pa.googleapis.com
+0.0.0.0 androidtvwatsonfe-pa.googleapis.com
+0.0.0.0 clientmetrics-pa.googleapis.com
+0.0.0.0 clouderrorreporting.googleapis.com
+0.0.0.0 crashlyticsreports-pa.googleapis.com
+0.0.0.0 firebaselogging.googleapis.com
+#[l.google.com]
+0.0.0.0 pagead-googlehosted.l.google.com
+0.0.0.0 pagead-tpc.l.google.com
+0.0.0.0 pagead.l.google.com
+0.0.0.0 partnerad.l.google.com
+0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 static-doubleclick-net.l.google.com
+0.0.0.0 www-google-analytics.l.google.com
+0.0.0.0 www-googletagmanager.l.google.com
+#[ads.gmodules.com]
+0.0.0.0 ads.gmodules.com
+#[ads.youtube.com]
+0.0.0.0 ads.youtube.com
+#[google.com]
+0.0.0.0 ads.google.com
+0.0.0.0 analytics-alv.google.com
+0.0.0.0 mail-ads.google.com
+#[google-cn]
+0.0.0.0 2mdn-cn.net
+0.0.0.0 admob-cn.com
+0.0.0.0 doubleclick-cn.net
+0.0.0.0 google-analytics-cn.com
+0.0.0.0 googleads-cn.com
+0.0.0.0 googleadservices-cn.com
+0.0.0.0 googleadsserving.cn
+0.0.0.0 googleoptimize-cn.com
+0.0.0.0 googletagmanager-cn.com
+0.0.0.0 googletagservices-cn.com
+0.0.0.0 googlevads-cn.com
