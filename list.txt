@@ -43,6 +43,8 @@ animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.T
 animevietsub.app###watch-block > div.Ads.bellow_ads_player:nth-child(4) > div.below-playerm
 sayhentai.one###hide_catfish
 sayhentai.one###catfish_content
+truyenvn.cam###banner-ad
+truyenvn.cam##div.wrap:first-child > div.body-wrap > div.aligncenter.ads-abc:nth-child(2)
 ! ---------- Ad domain ----------
 ||ad.vidverto.io^
 ||adflex.vn^$third-party
