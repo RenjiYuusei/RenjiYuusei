@@ -45,6 +45,9 @@ sayhentai.one###hide_catfish
 sayhentai.one###catfish_content
 truyenvn.cam###banner-ad
 truyenvn.cam##div.wrap:first-child > div.body-wrap > div.aligncenter.ads-abc:nth-child(2)
+lxmanga.life###mobile-catfish-2
+damconuongz.com###close-all-ads
+damconuongz.com###catfish-ad
 ! ---------- Ad domain ----------
 ||ad.vidverto.io^
 ||adflex.vn^$third-party
