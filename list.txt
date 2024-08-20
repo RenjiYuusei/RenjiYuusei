@@ -48,8 +48,16 @@ truyenvn.cam##div.wrap:first-child > div.body-wrap > div.aligncenter.ads-abc:nth
 lxmanga.life###mobile-catfish-2
 damconuongz.com###close-all-ads
 damconuongz.com###catfish-ad
-s.javn.tv###contenedor
+s.javn.tv###contenedor > div.module:last-child > div.content.full_width_layout > div.pc-pl:first-child > div.cashfit-ads__container:nth-child(7) > button.cashfit-ads__toggle:first-child
+s.javn.tv###contenedor > div.module:last-child > div.content.full_width_layout > div.pc-pl:first-child > div.cashfit-ads__container:nth-child(7) > a:last-child > img.cashfit-ads__banner
+s.javn.tv###contenedor > div.module:last-child > div.content.full_width_layout> div.pc-pl:first-child > div.cashfit- ads____container:nth-child(6)
+s.javn.tv###single > div.content:first-child > div.pc-pl:first-child > div.cashfit-ads__container:nth-child(6)
+hentaiz.wiki###spu-2738
 ! ---------- Ad domain ----------
+||https://clobberprocurertightwad.com^
+||https://ku42hjr2e.com^
+||https://vipads.live^
+||https://6v41p4bsq.com^
 ||ad.vidverto.io^
 ||adflex.vn^$third-party
 ||adpia.vn^$third-party
