@@ -60,13 +60,23 @@ vuighe3.com##.affiliate
 vuighe3.com##.player-midpoint-progress
 vuighe3.com##.banner-masthead
 /mmo/*$xmlhttprequest,image,domain=vuighe3.com
+phimmoiiii.net###floating_ads_bottom_textcss_x
+phimmoiiii.net###contenedor > div.module_home_ads
+phimmoiiii.net###floating_ads_bottom_textcss_ad
+phimmoiday.net###floating_ads_bottom_textcss_container
+phimmoiday.net###content > div.clearfix.wrap-content > a:nth-child(13) > img
+phimmoiday.net##div.container:nth-child(3)
+! ---------- Imgur ----------
+/i.imgur.com/$domain=xemphimchill.xyz
+/i.imgur.com/*.gif$domain=keonhacai5.mom|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|xoilaci.cc|90phutz19.live|veboz19.live|unfriendcoal.com|plvb.xyz|listnhacai88.com|xoilaczz31.live|xemtivingon.org|phimlongtieng.com|fumbaro.org|rakhoiz7.live|plcdn.xyz|phimmoi.onl|motphimww.com|phimmoiday.net|phimmoiiii.net
+/media.discordapp/$domain=phimno4.xyz|socolivebongda.net
 ! ---------- Ad domain ----------
-||https://sponsor.imacdn.com^
-||https://s682.imacdn.com^
-||https://clobberprocurertightwad.com^
-||https://ku42hjr2e.com^
-||https://vipads.live^
-||https://6v41p4bsq.com^
+||sponsor.imacdn.com^
+||s682.imacdn.com^
+||clobberprocurertightwad.com^
+||ku42hjr2e.com^
+||vipads.live^
+||6v41p4bsq.com^
 ||ad.vidverto.io^
 ||adflex.vn^$third-party
 ||adpia.vn^$third-party
@@ -160,13 +170,13 @@ vuighe3.com##.banner-masthead
 ||xszpuvwr7.com^
 ||zaloweb.
 ||qph.cf2.quoracdn.net/main-qimg-*
-||https://blurbreimbursetrombone.com^
-||https://endowmentoverhangutmost.com^
-||https://holahupa.com^
+||blurbreimbursetrombone.com^
+||endowmentoverhangutmost.com^
+||holahupa.com^
 ||cdn.hentaicube.net^
-||https://laxativestuckunclog.com^
-||https://widgetlogic.org^
-||https://ads.mxhnkn.pro^
+||laxativestuckunclog.com^
+||widgetlogic.org^
+||ads.mxhnkn.pro^
 #[doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
