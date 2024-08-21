@@ -34,13 +34,13 @@ truyenqqto.com###catfishAd
 truyenqqto.com###popup-truyenqq
 truyenqqto.com###rik-both-top-67
 truyenqqto.com###ad_info_top
-animehay.in##div:nth-child(5) > div > div:first-child > img
-animehay.in##div:nth-child(5) > div > div:last-child
+animehay.in##div:nth-child(5) > div
 animevietsub.app###hide_catfix > a
-animevietsub.app###mobile-catfixx > div.mb_catfix_adv:last-child
-animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv.ad-center-header:nth-child(2) > div.header-ads-mobile
 animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads.ads_player:first-child
 animevietsub.app###watch-block > div.Ads.bellow_ads_player:nth-child(4) > div.below-playerm
+animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads.bellow_ads_player:nth-child(3) > div.below-playerm
+animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv.ad-center-header:nth-child(2) > div.header-ads-mobile
+animevietsub.app###mobile-catfixx > div.mb_catfix_adv:last-child
 sayhentai.one###hide_catfish
 sayhentai.one###catfish_content
 truyenvn.cam###banner-ad
@@ -115,6 +115,7 @@ hhninja.xyz###header-ads
 ||baobabsruesome.com^
 ||bardicjazzed.com^
 ||bidgear-syndication.com^
+||waisheph.com^
 ||blueseed.tv^$third-party
 ||brittlesturdyunlovable.com^
 ||cdn.adop.asia^
