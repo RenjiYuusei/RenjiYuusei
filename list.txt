@@ -71,10 +71,14 @@ hhpanda.tube##div.container:nth-child(3) > div.row:last-child > div.underplayer_
 hhpanda.tube###top_addd
 hhpanda.tube###footer_fixed_ads > div.banner-sticky-footer-wrapper
 hhpanda.tube###overlay > div.overlay_content
+hhninja.xyz###header-ads
+hhninja.xyz###catfish
+hhtrungquoc6.com###catfish
 ! ---------- Imgur ----------
 /i.imgur.com/$domain=xemphimchill.xyz
 /i.imgur.com/*.gif$domain=keonhacai5.mom|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|xoilaci.cc|90phutz19.live|veboz19.live|unfriendcoal.com|plvb.xyz|listnhacai88.com|xoilaczz31.live|xemtivingon.org|phimlongtieng.com|fumbaro.org|rakhoiz7.live|plcdn.xyz|phimmoi.onl|motphimww.com|phimmoiday.net|phimmoiiii.net
 /media.discordapp/$domain=phimno4.xyz|socolivebongda.net
+hhninja.xyz###header-ads
 ! ---------- Ad domain ----------
 ||hoathinh3d.run/pop/pop.js
 ||3pkf5m0gd.com^
