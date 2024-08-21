@@ -27,7 +27,7 @@ vlxx.lol,javtopxx.com##.ads
 vlxx.lol##.popup
 vlxx.lol##.popups
 hentaicube.net###mb-catfish
-hentaicube.net###pc-catfish
+hentaicube.net,thongtintruyen.com###pc-catfish
 hentaicube.net###custom_html-19 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div
 hentaicube.net###custom_html-25 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div > a > img
 truyenqqto.com###catfishAd
