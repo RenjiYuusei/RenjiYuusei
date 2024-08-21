@@ -27,7 +27,7 @@ vlxx.lol,javtopxx.com##.ads
 vlxx.lol##.popup
 vlxx.lol##.popups
 hentaicube.net###mb-catfish
-hentaicube.net,thongtintruyen.com###pc-catfish
+hentaicube.net###pc-catfish
 hentaicube.net###custom_html-19 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div
 hentaicube.net###custom_html-25 > div.widget_text.widget__inner.widget_custom_html__inner.c-widget-wrap > div.widget_text.widget-content > div.textwidget.custom-html-widget > div > a > img
 truyenqqto.com###catfishAd
@@ -54,7 +54,6 @@ s.javn.tv###contenedor > div.module:last-child > div.content.full_width_layout> 
 s.javn.tv###single > div.content:first-child > div.pc-pl:first-child > div.cashfit-ads__container:nth-child(6)
 hentaiz.wiki###spu-2738
 hentaiz.wiki##div.wrap:nth-child(2) > div.body-wrap > div:nth-child(2)
-hentaiz.wiki###catfish
 vuighe3.com###balloon
 vuighe3.com##.affiliate
 vuighe3.com##.player-midpoint-progress
@@ -66,14 +65,13 @@ phimmoiiii.net###floating_ads_bottom_textcss_ad
 phimmoiday.net###floating_ads_bottom_textcss_container
 phimmoiday.net###content > div.clearfix.wrap-content > a:nth-child(13) > img
 phimmoiday.net##div.container:nth-child(3)
-hhvsub.com###catfish
+hhvsub.com,hhtrungquoc6.com,hhninja.xyz,hentaiz.wiki###catfish
 hhpanda.tube##div.container:nth-child(3) > div.row:last-child > div.underplayer_btn:nth-child(5)
 hhpanda.tube###top_addd
 hhpanda.tube###footer_fixed_ads > div.banner-sticky-footer-wrapper
 hhpanda.tube###overlay > div.overlay_content
 hhninja.xyz###header-ads
-hhninja.xyz###catfish
-hhtrungquoc6.com###catfish
+thongtintruyen.com###pc-catfixx
 ! ---------- Imgur ----------
 /i.imgur.com/$domain=xemphimchill.xyz
 /i.imgur.com/*.gif$domain=keonhacai5.mom|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|xoilaci.cc|90phutz19.live|veboz19.live|unfriendcoal.com|plvb.xyz|listnhacai88.com|xoilaczz31.live|xemtivingon.org|phimlongtieng.com|fumbaro.org|rakhoiz7.live|plcdn.xyz|phimmoi.onl|motphimww.com|phimmoiday.net|phimmoiiii.net
