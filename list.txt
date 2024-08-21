@@ -66,11 +66,20 @@ phimmoiiii.net###floating_ads_bottom_textcss_ad
 phimmoiday.net###floating_ads_bottom_textcss_container
 phimmoiday.net###content > div.clearfix.wrap-content > a:nth-child(13) > img
 phimmoiday.net##div.container:nth-child(3)
+hhvsub.com###catfish
+hhpanda.tube##div.container:nth-child(3) > div.row:last-child > div.underplayer_btn:nth-child(5)
+hhpanda.tube###top_addd
+hhpanda.tube###footer_fixed_ads > div.banner-sticky-footer-wrapper
+hhpanda.tube###overlay > div.overlay_content
 ! ---------- Imgur ----------
 /i.imgur.com/$domain=xemphimchill.xyz
 /i.imgur.com/*.gif$domain=keonhacai5.mom|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|xoilaci.cc|90phutz19.live|veboz19.live|unfriendcoal.com|plvb.xyz|listnhacai88.com|xoilaczz31.live|xemtivingon.org|phimlongtieng.com|fumbaro.org|rakhoiz7.live|plcdn.xyz|phimmoi.onl|motphimww.com|phimmoiday.net|phimmoiiii.net
 /media.discordapp/$domain=phimno4.xyz|socolivebongda.net
 ! ---------- Ad domain ----------
+||hoathinh3d.run/pop/pop.js
+||3pkf5m0gd.com^
+||hhpanda.tube/ads/ads_xx.js
+||ads.cdn2-img.net/^*.gif
 ||sponsor.imacdn.com^
 ||s682.imacdn.com^
 ||clobberprocurertightwad.com^
