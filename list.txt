@@ -55,9 +55,14 @@ s.javn.tv###single > div.content:first-child > div.pc-pl:first-child > div.cashf
 hentaiz.wiki###spu-2738
 hentaiz.wiki##div.wrap:nth-child(2) > div.body-wrap > div:nth-child(2)
 hentaiz.wiki###catfish
+vuighe3.com###balloon
+vuighe3.com##.affiliate
+vuighe3.com##.player-midpoint-progress
+vuighe3.com##.banner-masthead
+/mmo/*$xmlhttprequest,image,domain=vuighe3.com
 ! ---------- Ad domain ----------
 ||https://sponsor.imacdn.com^
-||https://pub.akadigital.vn^
+||https://s682.imacdn.com^
 ||https://clobberprocurertightwad.com^
 ||https://ku42hjr2e.com^
 ||https://vipads.live^
