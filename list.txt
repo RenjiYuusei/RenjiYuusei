@@ -80,6 +80,7 @@ hhtrungquoc6.com###catfish
 /media.discordapp/$domain=phimno4.xyz|socolivebongda.net
 hhninja.xyz###header-ads
 ! ---------- Ad domain ----------
+||cdn.vipads.cc^
 ||hoathinh3d.run/pop/pop.js
 ||3pkf5m0gd.com^
 ||hhpanda.tube/ads/ads_xx.js
