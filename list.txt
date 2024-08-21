@@ -153,13 +153,13 @@ hentaiz.wiki###catfish
 ||xszpuvwr7.com^
 ||zaloweb.
 ||qph.cf2.quoracdn.net/main-qimg-*
-||https://blurbreimbursetrombone.com/*
-||https://endowmentoverhangutmost.com/*
-||https://holahupa.com/*
-||cdn.hentaicube.net/qcs/*
-||https://laxativestuckunclog.com/*
-||https://widgetlogic.org/*
-||https://ads.mxhnkn.pro/*
+||https://blurbreimbursetrombone.com^
+||https://endowmentoverhangutmost.com^
+||https://holahupa.com^
+||cdn.hentaicube.net^
+||https://laxativestuckunclog.com^
+||https://widgetlogic.org^
+||https://ads.mxhnkn.pro^
 #[doubleclick.net]
 0.0.0.0 doubleclick.net
 0.0.0.0 accounts.doubleclick.net
