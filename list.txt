@@ -56,6 +56,8 @@ hentaiz.wiki###spu-2738
 hentaiz.wiki##div.wrap:nth-child(2) > div.body-wrap > div:nth-child(2)
 hentaiz.wiki###catfish
 ! ---------- Ad domain ----------
+||https://sponsor.imacdn.com^
+||https://pub.akadigital.vn^
 ||https://clobberprocurertightwad.com^
 ||https://ku42hjr2e.com^
 ||https://vipads.live^
