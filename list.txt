@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Version: 22-8-2024
+! Title: RenjiYuusei List
+! Last modified: 22 Aug 2024 18:04:38 UTC+7
+! RenjiYuusei List filter
+! Copyright: Renji Yuusei
+! ---------- Generic Blocking Rules ----------
 .com/cpc/$script
 .com/qc/
 .net/ads/$domain=~mcleaks.net|~linkneverdie.net
@@ -17,6 +24,38 @@
 /banner/*.gif$domain=~marsvenus.vn
 /beardeddragon$script
 /blueserving.
+/cms/Arfcc.min.js$script,third-party,domain=cafef.vn|gamek.vn|genk.vn|kenh14.vn|soha.vn|tuoitre.vn|afamily.vn
+/cms/arf-$script,third-party,domain=cafef.vn|gamek.vn|genk.vn|kenh14.vn|soha.vn|tuoitre.vn|afamily.vn
+/core/*$script,domain=gamek.vn|genk.vn|kenh14.vn|cafef.vn
+/detroitchicago$script
+/disable-devtool.min.js$script
+/giadinhonline.vn/files/qc/
+/i.imgur.com/$domain=xemphimchill.xyz
+/i.imgur.com/*.gif$domain=keonhacai5.mom|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|xoilaci.cc|andaluciainvestiga.com|veboz19.live|unfriendcoal.com|plvb.xyz|listnhacai88.com|xoilaczz31.live|xemtivingon.org|phimlongtieng.com|newsmavens.com|rakhoiz7.live|plcdn.xyz|phimmoi.onl|motphimww.com
+/media.discordapp/$domain=phimno4.xyz|socolivebongda.net
+/mmo/*$xmlhttprequest,image,domain=vuighe3.com
+/newchill/*gif$image
+/polyad.
+/popunder7.
+/porpoiseant$script
+/qcao/*$domain=~thegioididong.com
+/quang%20cao/*
+/quang_cao/*
+/quangcao.
+/quangcao/*
+/root/ads/*
+/sbbanner.com
+/script/oneAds.js$script,~third-party
+/siropu/am/core.min.js$script
+/storage.adpia.vn$image,script
+/stores/ads_data/*
+/taichinhdoanhnghiep.net.vn/files/qc
+/tinhocdongthap.com\/wp-content\/plugins\/wp-[\w-]+\/[\w-]+\.js/$script
+/tracking_info.gif$domain=cafef.vn|gamek.vn|genk.vn|kenh14.vn|soha.vn|tuoitre.vn|afamily.vn
+/v/*/vast.js$script,domain=~cdn2.kenhvn2.com
+/vast.js$script,domain=phimmoi.tuphim.net|boctem.com|phimvietsub.pro|phimdacap.tv|hoathinhtq.site|tvhay26.com|phimmoisz.org|tvzinghd.co
+/videojs.ads.$domain=~danet.vn|~tn.com.ar
+/videojs.ima.js$domain=~jut.su|~earthcam.com
 vlxx.lol###adx
 vlxx.lol##.banner-preload
 vlxx.lol##.catfish-top
