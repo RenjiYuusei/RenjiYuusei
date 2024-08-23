@@ -113,11 +113,9 @@ hhninja.xyz###header-ads
 thongtintruyen.com###pc-catfixx
 hhninja.xyz###header-ads
 m.blogtruyenmoi.com##div:nth-child(18)
-! ---------- Imgur ----------
-/i.imgur.com/$domain=xemphimchill.xyz
-/i.imgur.com/*.gif$domain=keonhacai5.mom|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|xoilaci.cc|90phutz19.live|veboz19.live|unfriendcoal.com|plvb.xyz|listnhacai88.com|xoilaczz31.live|xemtivingon.org|phimlongtieng.com|fumbaro.org|rakhoiz7.live|plcdn.xyz|phimmoi.onl|motphimww.com|phimmoiday.net|phimmoiiii.net
-/media.discordapp/$domain=phimno4.xyz|socolivebongda.net
 ! ---------- Ad domain ----------
+||huongdanjava.com$csp=script-src data: 'self' 'unsafe-inline' http: https:
+||cdn.adxcontent.com^
 ||shope.ee^$popup,domain=chillphimmoizzz.org|blogtruyenmoi.com|cunghocvui.com|truyensextv.com
 ||cdn.vipads.cc^
 ||hoathinh3d.run/pop/pop.js
@@ -394,3 +392,7 @@ m.blogtruyenmoi.com##div:nth-child(18)
 0.0.0.0 googletagmanager-cn.com
 0.0.0.0 googletagservices-cn.com
 0.0.0.0 googlevads-cn.com
+! ---------- Imgur ----------
+/i.imgur.com/$domain=xemphimchill.xyz
+/i.imgur.com/*.gif$domain=keonhacai5.mom|phimlongtieng.net|phimdinhcao.com|phimdinhcao.net|xoilaci.cc|90phutz19.live|veboz19.live|unfriendcoal.com|plvb.xyz|listnhacai88.com|xoilaczz31.live|xemtivingon.org|phimlongtieng.com|fumbaro.org|rakhoiz7.live|plcdn.xyz|phimmoi.onl|motphimww.com|phimmoiday.net|phimmoiiii.net
+/media.discordapp/$domain=phimno4.xyz|socolivebongda.net
