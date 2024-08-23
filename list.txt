@@ -114,8 +114,15 @@ thongtintruyen.com###pc-catfixx
 hhninja.xyz###header-ads
 m.blogtruyenmoi.com##div:nth-child(18)
 viet69.name,ungtycomicsvip.com,vlxx.mobi,dualeotruyenbi.com,yurineko.net,vlxyz.tube,javhay.click,phimsexhay669.pro,cliphot69.blog,doctruyen3qtv.pro,hentaizz.biz,heo69.moe,top1sex.club,sexmup18.com,hentaivn.today,streamvl.top,www.buomtv.vip,truyenvn.cam,cdnstream.sbs,javtiful.com,truyengihotdo.net,truyengihotzay.net,truyengihotnha.com,truyengihotnha.net,truyengihotqua.net,truyengihotqua.com,truyengihotnay.com,sexvn.tuoi69s.com,quatvn.baby,tenmientruyengi.net,topviet69.com,phim18hd.sex,live.sexviet88.dev,sexnhe.biz,demo.14412882.com,sexphimhd.vip,ungtycomicsvip.net,vn.cliphot69.live,hhtq5.vip,sayhentai.one,sexdiary.club#%#//scriptlet("abort-current-inline-script", "WebAssembly", "instantiate")
-||quoracdn.net^$image,domain=vlxx.mobi|vlxyz.tube|sieudamtv.dev|sex.chichnhau.net
+manwa.me###detail > div:nth-child(3) > div:last-child > p:last-child > a > img
+manwa.me##div.main-content:first-child > div.footer:nth-child(14) > div.custom-ad-area.ad-area.ad-area-fix-bottom:first-child
+boctem.com###popup-giua-man-hinh > div.popUpBannerBox:first-child > div.popUpBannerInner > div.popUpBannerContent
+boctem.com###freebie
+v5.sex30s.com###outer
+sexmy69.pro##div.float-ck:nth-child(9)
 ! ---------- Ad domain ----------
+||clmm.webcam/ads^
+||quoracdn.net^$image,domain=vlxx.mobi|vlxyz.tube|sieudamtv.dev|sex.chichnhau.net
 ||huongdanjava.com$csp=script-src data: 'self' 'unsafe-inline' http: https:
 ||cdn.adxcontent.com^
 ||shope.ee^$popup,domain=chillphimmoizzz.org|blogtruyenmoi.com|cunghocvui.com|truyensextv.com
