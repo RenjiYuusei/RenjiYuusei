@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 22-8-2024
 ! Title: RenjiYuusei List
-! Last modified: 22 Aug 2024 18:04:38 UTC+7
+! Last modified: 26 Aug 2024 16:45:0 UTC+7
 ! RenjiYuusei List filter
 ! Copyright: Renji Yuusei
 ! ---------- Generic Blocking Rules ----------
@@ -73,7 +73,7 @@ truyenqqto.com###catfishAd
 truyenqqto.com###popup-truyenqq
 truyenqqto.com###rik-both-top-67
 truyenqqto.com###ad_info_top
-animehay.in##div:nth-child(5) > div
+animehay.in##div:nth-child(4) > div
 animevietsub.app###hide_catfix > a
 animevietsub.app###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Ads.ads_player:first-child
 animevietsub.app###watch-block > div.Ads.bellow_ads_player:nth-child(4) > div.below-playerm
@@ -116,11 +116,16 @@ m.blogtruyenmoi.com##div:nth-child(18)
 viet69.name,ungtycomicsvip.com,vlxx.mobi,dualeotruyenbi.com,yurineko.net,vlxyz.tube,javhay.click,phimsexhay669.pro,cliphot69.blog,doctruyen3qtv.pro,hentaizz.biz,heo69.moe,top1sex.club,sexmup18.com,hentaivn.today,streamvl.top,www.buomtv.vip,truyenvn.cam,cdnstream.sbs,javtiful.com,truyengihotdo.net,truyengihotzay.net,truyengihotnha.com,truyengihotnha.net,truyengihotqua.net,truyengihotqua.com,truyengihotnay.com,sexvn.tuoi69s.com,quatvn.baby,tenmientruyengi.net,topviet69.com,phim18hd.sex,live.sexviet88.dev,sexnhe.biz,demo.14412882.com,sexphimhd.vip,ungtycomicsvip.net,vn.cliphot69.live,hhtq5.vip,sayhentai.one,sexdiary.club#%#//scriptlet("abort-current-inline-script", "WebAssembly", "instantiate")
 manwa.me###detail > div:nth-child(3) > div:last-child > p:last-child > a > img
 manwa.me##div.main-content:first-child > div.footer:nth-child(14) > div.custom-ad-area.ad-area.ad-area-fix-bottom:first-child
-boctem.com###popup-giua-man-hinh > div.popUpBannerBox:first-child > div.popUpBannerInner > div.popUpBannerContent
+boctem.com###popup-giua-man-hinh
 boctem.com###freebie
 v5.sex30s.com###outer
 sexmy69.pro##div.float-ck:nth-child(9)
 ! ---------- Ad domain ----------
+||recordedthereby.com^
+||recedechatprotestant.com^
+||qnp16tstw.com^
+||javhdz.cc/js/ads-native.js
+||a.magsrv.com
 ||clmm.webcam/ads^
 ||quoracdn.net^$image,domain=vlxx.mobi|vlxyz.tube|sieudamtv.dev|sex.chichnhau.net
 ||huongdanjava.com$csp=script-src data: 'self' 'unsafe-inline' http: https:
