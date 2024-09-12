@@ -120,6 +120,10 @@ boctem.com###popup-giua-man-hinh
 boctem.com###freebie
 v5.sex30s.com###outer
 sexmy69.pro##div.float-ck:nth-child(9)
+m.blogtruyenmoi.com##div:nth-child(16)
+m.blogtruyenmoi.com##div:nth-child(17)
+wibuz.net###html.flexbox.flexboxlegacy.no-flexboxtweener.flexwrap.objectfit.object-fit > body#body-click > div#Tp-Wp > div.Body.Container > div#catfish > button.closecf
+boctem.com##div.modal-backdrop.fade.in:last-child
 ! ---------- Ad domain ----------
 ||tzegilo.com^
 ||recordedthereby.com^
