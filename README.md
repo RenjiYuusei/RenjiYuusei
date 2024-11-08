@@ -1,16 +1,16 @@
-# 💻 Code Artisan's Workshop
+# 💻 All About Me
 
 <div align="center">
   <img src="https://avatars.githubusercontent.com/RenjiYuusei" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #6F3BF5; padding: 2px; background: #0D1117;"/>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=6F3BF5&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Code+Craftsman;Open+Source+Enthusiast;Always+Learning+%26+Growing)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=6F3BF5&center=true&vCenter=true&width=435&lines=🙍+Yuusei;Explore+and+Learn+🤓;I+Am+Vietnamese+🇻🇳)](https://git.io/typing-svg)
 
   <a href="https://github.com/RenjiYuusei">
     <img src="https://img.shields.io/github/followers/RenjiYuusei?label=Followers&style=social" alt="GitHub Followers Badge">
   </a>
 </div>
 
-## 📊 Development Journey
+## 📊 My Github Profile Statistics
 
 <div align="center">
   <!-- GitHub Streak Stats -->
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-## ⚡ Tech Stack
+## ⚡ Tools and Languages I Use
 
 <div align="center">
 
@@ -63,6 +63,7 @@
 ## 💫 About Me
 
 My name **A.K.A** **Yuusei!** <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Waving Hand"> 
+
 ## 🏆 Achievements
 
 <div align="center">
