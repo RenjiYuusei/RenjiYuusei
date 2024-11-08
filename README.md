@@ -84,9 +84,7 @@ My name **A.K.A** **Yuusei!** <img src="https://raw.githubusercontent.com/ABSphr
 <summary>📊 More Detailed Stats</summary>
 <br>
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=RenjiYuusei&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=6F3BF5&text_color=FFFFFF)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
+<figure><embed src="https://wakatime.com/share/@018c26cc-27d9-412e-ab7c-94079178d4e9/43c11d3b-87c8-4945-8a85-938cca3d49d3.svg"></embed></figure></details>
 
 </div>
 
