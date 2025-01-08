@@ -28,12 +28,19 @@ I'm a passionate developer who loves to code and create interesting projects.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RenjiYuusei&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=-1" alt="GitHub Trophies" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RenjiYuusei&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=-1)](https://github.com/RenjiYuusei)
 
 <p align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=RenjiYuusei&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117">
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
   
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenjiYuusei&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/RenjiYuusei)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/RenjiYuusei)
+
+</p>
+
+<p align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats-okpyckmx5-tieu-thanh-nhi1-7d5a1c92.vercel.app?user=RenjiYuusei&theme=radical)](https://git.io/streak-stats)
+
 </p>
 
 <p align="center">
