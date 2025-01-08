@@ -32,11 +32,11 @@ I'm a passionate developer who loves to code and create interesting projects.
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api?username=RenjiYuusei&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117">
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
+  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
 </p>
 
 <p align="center">
-  <img width="41%" src="https://github-readme-streak-stats.herokuapp.com?user=RenjiYuusei&theme=radical&hide_border=true&background=0D1117">
+  <img src="cat.webp" alt="Cute Cat" width="200">
 </p>
 
 </div>
@@ -62,9 +62,6 @@ I'm a passionate developer who loves to code and create interesting projects.
 <p align="left">
 <a href="https://github.com/RenjiYuusei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:daoluc.yy@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.facebook.com/RenjiYuusei" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://x.com/RenjiYuusei" target="_blank"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://t.me/RenjiYuusei" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ## ⚡ Fun fact
