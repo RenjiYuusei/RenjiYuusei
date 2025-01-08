@@ -32,8 +32,8 @@ I'm a passionate developer who loves to code and create interesting projects.
 
 <p align="center">
   <img width="41%" src="https://github-readme-stats.vercel.app/api?username=RenjiYuusei&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117">
-  <img width="31%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
-  <img width="%" src="https://camo.githubusercontent.com/8acd1ba7d291d36b49e0f30f488f6897c3a99a8202586101447b8976f675e8a8/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d52656e6a69597575736569267468656d653d7261646963616c26686964655f626f726465723d74727565266261636b67726f756e643d304431313137" alt="GitHub Streak Stats">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117">
+  
 </p>
 
 <p align="center">
