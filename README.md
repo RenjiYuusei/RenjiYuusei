@@ -4,7 +4,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/RenjiYuusei?style=social)](https://github.com/RenjiYuusei)
 ![Profile Views](https://komarev.com/ghpvc/?username=RenjiYuusei&color=blueviolet)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RenjiYuusei&theme=radical&hide_border=false)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-stack+Developer;Vietnamese+Developer;Always+learning+new+things" alt="Typing SVG" />
 
