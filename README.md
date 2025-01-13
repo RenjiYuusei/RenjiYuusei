@@ -4,6 +4,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/RenjiYuusei?style=social)](https://github.com/RenjiYuusei)
 ![Profile Views](https://komarev.com/ghpvc/?username=RenjiYuusei&color=blueviolet)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RenjiYuusei&theme=radical&hide_border=false)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D36F7&center=true&vCenter=true&width=435&lines=Frontend+Developer;Full-stack+Developer;Vietnamese+Developer;Always+learning+new+things" alt="Typing SVG" />
 
@@ -24,30 +25,13 @@ I'm a passionate developer who loves to code and create interesting projects.
 
 </details>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RenjiYuusei&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RenjiYuusei&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=RenjiYuusei&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=-1)](https://github.com/RenjiYuusei)
-
-<p align="center">
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RenjiYuusei&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117)](https://github.com/RenjiYuusei)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenjiYuusei&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/RenjiYuusei)
-
-</p>
-
-<p align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats-okpyckmx5-tieu-thanh-nhi1-7d5a1c92.vercel.app?user=RenjiYuusei&theme=radical)](https://git.io/streak-stats)
-
-</p>
-
-<p align="center">
-  <img src="cat.webp" alt="Cute Cat" width="200">
-</p>
-
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RenjiYuusei&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🛠️ Tech Stack
 
@@ -57,6 +41,8 @@ I'm a passionate developer who loves to code and create interesting projects.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ### Runtime & Tools
 
@@ -72,9 +58,10 @@ I'm a passionate developer who loves to code and create interesting projects.
 <a href="mailto:daoluc.yy@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## ⚡ Fun fact
 
-I'm always eager to learn new technologies and contribute to interesting projects!
+### 🔝 Top Contributed Repo
+[![](https://visitcount.itsvg.in/api?id=RenjiYuusei&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-contributor-stats.vercel.app/api?username=RenjiYuusei&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
