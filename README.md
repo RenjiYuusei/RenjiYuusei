@@ -19,7 +19,6 @@ I'm a passionate developer who loves to code and create interesting projects.
 -   🔭 I'm currently working on improving my coding skills
 -   🌱 I'm currently learning Full Stack Development
 -   👯 I'm looking to collaborate on interesting projects
--   🇻🇳 I am Vietnamese and my real name is Doan Dinh Hoang (Đoàn Đình Hoàng)
 -   💡 I love exploring new technologies and developing software solutions
 
 </details>
@@ -56,11 +55,6 @@ I'm a passionate developer who loves to code and create interesting projects.
 <a href="https://github.com/RenjiYuusei" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="mailto:daoluc.yy@gmail.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
-
-### 🔝 Top Contributed Repo
-[![](https://visitcount.itsvg.in/api?id=RenjiYuusei&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://github-contributor-stats.vercel.app/api?username=RenjiYuusei&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
